@@ -1,5 +1,7 @@
 Book Samples
 =======
+Install nodejs and npm from the below.
+https://nodejs.org/en/download/
 
 ## Sample code - chapter by chapter
 
